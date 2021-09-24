@@ -13,9 +13,9 @@ Caso seja executado uma outra entrada diferente da entrada padrão estabelecida 
 Na construção dos algoritmos foram levados os seguintes parâmetros, nem todos estão disponíveis em todos os algoritmos, para ver os parâmetros disponíveis para o algoritmo em questão, basta execultar o parâmetro -h para ver os parâmetros disponíveis. No algoritmo de Dijkstra, é necessário informar o vértice inicial e final.
 
 -------------------------------------------------
--h : mostra o help
--o <arquivo> : redireciona a saida para o ‘‘arquivo’’
--f <arquivo> : indica o ‘‘arquivo’’ que contém o grafo de entrada
--s : mostra a solução (em ordem crescente)
--i : vértice inicial (dependendo do algoritmo)
--l : vértice final (dependendo do algoritmo)
+* -h : mostra o help
+* -o <arquivo> : redireciona a saida para o ‘‘arquivo’’
+* -f <arquivo> : indica o ‘‘arquivo’’ que contém o grafo de entrada
+* -s : mostra a solução (em ordem crescente)
+* -i : vértice inicial (dependendo do algoritmo)
+* -l : vértice final (dependendo do algoritmo)
