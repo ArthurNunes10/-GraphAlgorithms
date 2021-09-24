@@ -1,0 +1,9 @@
+Estimativa de custo de 1 para 2 é 5=>(Total acumulado de 1 até 2 = 5)
+Estimativa de custo de 1 para 3 é 4=>(Total acumulado de 1 até 3 = 4)
+Estimativa de custo de 1 para 4 é 2=>(Total acumulado de 1 até 4 = 2)
+Estimativa de custo de 1 para 6 é 6=>(Total acumulado de 1 até 6 = 6)
+Estimativa de custo de 4 para 2 é 1=>(Total acumulado de 1 até 2 = 3)
+Estimativa de custo de 4 para 6 é 1=>(Total acumulado de 1 até 6 = 3)
+Estimativa de custo de 2 para 5 é 7=>(Total acumulado de 1 até 5 = 10)
+Estimativa de custo de 3 para 5 é 6=>(Total acumulado de 1 até 5 = 10)
+Custo mínimo de 1 a 5: 10
